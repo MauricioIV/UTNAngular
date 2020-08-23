@@ -1,5 +1,4 @@
-{
- [
+[
     {
       "id": 1,
       "title": "Producto 1",
@@ -21,4 +20,3 @@
       "description": "Descrpción Producto 4"
     }    
   ]  
-}
